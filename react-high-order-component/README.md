@@ -6,3 +6,4 @@ It receives a component, applies some additional logic and then return that comp
 When to use:--
 
 -> When we want to apply same logic to multiple components
+-> When we want to make the component customisable.
