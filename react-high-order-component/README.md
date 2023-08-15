@@ -3,7 +3,8 @@ Certainly! Higher-Order Components (HOCs) are a popular pattern in React used fo
 Hoc:-
 It receives a component, applies some additional logic and then return that component with those new functionality.
 
-When to use:--
+When to use Home:--
 
--> When we want to apply same logic to multiple components
+-> When we want to apply same logic to multiple components.
+
 -> When we want to make the component customisable.
