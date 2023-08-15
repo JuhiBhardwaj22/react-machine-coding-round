@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MyComponent />
+        <MyComponent msgFromParent="Passing props from parent" />
       </header>
     </div>
   );
