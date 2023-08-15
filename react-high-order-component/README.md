@@ -7,4 +7,3 @@ When to use Home:--
 
 -> When we want to apply same logic to multiple components.
 
--> When we want to make the component customisable.
