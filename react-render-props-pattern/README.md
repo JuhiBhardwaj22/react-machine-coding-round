@@ -5,7 +5,7 @@ In React, Render Props is a design pattern used to share code between components
 -> create more reusable components
 the phrase "A reusable component that provides data to its children using Render Props" means that you have created a component that can be reused in various parts of your application. This component offers a way to share data or functionality with its child components by passing a function (the "render prop") that allows the child components to access and use that data.
 
-<DataProviderParent
+<!-- <DataProviderParent
 render={(data) => (
 
 <div>
@@ -13,5 +13,6 @@ render={(data) => (
 <h5>{data}</h5>
 </div>
 )}
-/>
- Returning the JSX from the arrow function passed to the render prop.
+/> -->
+
+Returning the JSX from the arrow function passed to the render prop.
