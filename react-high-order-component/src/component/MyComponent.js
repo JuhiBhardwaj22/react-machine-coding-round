@@ -2,7 +2,6 @@ import React from "react";
 import hocComponent from "./HocComponent";
 
 const MyComponent = (props) => {
-  console.log(props);
   return (
     <div>
       <div>Hello This is child component</div>

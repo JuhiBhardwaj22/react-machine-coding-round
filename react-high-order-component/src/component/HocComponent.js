@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 const hocComponent = (ChildComponent) => {
   function HocComponent(props) {
+    console.log("props", props);
     const [count, setCount] = useState(1);
     const incCount = () => {
       setCount(count + 1);
